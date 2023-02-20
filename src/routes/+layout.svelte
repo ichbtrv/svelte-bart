@@ -1,5 +1,5 @@
 <script lang='ts'>
-	import '../app.css';
+  import '../app.css';
 </script>
 
 <main class="min-h-screen p-4">
